@@ -1,0 +1,379 @@
+04/23/2018 03:26:00 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:26:33 PM-INFO-create host success....
+04/23/2018 03:26:33 PM-ERROR-Input Error...
+04/23/2018 03:26:33 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:26:42 PM-INFO-exit program success....
+04/23/2018 03:27:14 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:27:32 PM-INFO-create host success....
+04/23/2018 03:27:32 PM-ERROR-Input Error...
+04/23/2018 03:27:32 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:35:59 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:37:56 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:39:12 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:40:16 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:40:41 PM-INFO-create host success....
+04/23/2018 03:40:41 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:45:20 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:46:02 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:46:58 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:47:39 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:48:00 PM-INFO-create host success....
+04/23/2018 03:48:00 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:48:18 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:48:56 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:48:59 PM-ERROR-host[19211] connect failed...	 Reason:'psd'
+04/23/2018 03:48:59 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:49:29 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:49:43 PM-INFO-create host success....
+04/23/2018 03:49:43 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:49:46 PM-ERROR-host[19211] connect failed...	 Reason:'psd'
+04/23/2018 03:49:46 PM-ERROR-host[xiess] connect failed...	 Reason:'psd'
+04/23/2018 03:49:46 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:49:55 PM-INFO-exit program success....
+04/23/2018 03:54:10 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:54:26 PM-INFO-create host success....
+04/23/2018 03:54:26 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:54:40 PM-ERROR-host[xiesskvm] connect failed...	 Reason:[Errno 11001] getaddrinfo failed
+04/23/2018 03:54:40 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:55:21 PM-ERROR-host[xiesskvm] connect failed...	 Reason:[Errno 11001] getaddrinfo failed
+04/23/2018 03:55:21 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:55:21 PM-ERROR-Input Error...
+04/23/2018 03:55:21 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:56:43 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:56:57 PM-ERROR-host[xiesskvm] connect failed...	 Reason:[Errno 11001] getaddrinfo failed
+04/23/2018 03:56:57 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 03:59:36 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:00:00 PM-INFO-create host success....
+04/23/2018 04:00:00 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:00:04 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 04:00:04 PM-INFO-Authentication (password) successful!
+04/23/2018 04:00:15 PM-ERROR-host[xiesskvm] connect failed...	 Reason:[Errno 11001] getaddrinfo failed
+04/23/2018 04:00:15 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:00:34 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:00:36 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 04:00:36 PM-INFO-Authentication (password) successful!
+04/23/2018 04:00:36 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:01:09 PM-ERROR-host [192.168.180.72] error£º'psd'
+04/23/2018 04:03:38 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:04:05 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:04:08 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 04:04:08 PM-INFO-Authentication (password) successful!
+04/23/2018 04:04:08 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:06:23 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:06:26 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 04:06:26 PM-INFO-Authentication (password) successful!
+04/23/2018 04:06:26 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:06:47 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 04:06:47 PM-INFO-Authentication (password) successful!
+04/23/2018 04:13:27 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:13:29 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 04:13:30 PM-INFO-Authentication (password) successful!
+04/23/2018 04:13:30 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:13:35 PM-INFO-|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:15:40 PM-INFO-
+    |----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:15:47 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:18:30 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:19:57 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:20:24 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:21:38 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:21:59 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 04:21:59 PM-INFO-Authentication (password) successful!
+04/23/2018 04:22:06 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 04:22:09 PM-INFO-exit program success....
+04/23/2018 05:22:16 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 08:04:56 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 08:05:43 PM-INFO-create host success....
+04/23/2018 08:05:43 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 08:06:31 PM-INFO-Connected (version 2.0, client OpenSSH_7.4)
+04/23/2018 08:06:32 PM-INFO-Authentication (password) successful!
+04/23/2018 08:06:32 PM-INFO-Connected (version 2.0, client OpenSSH_6.6.1)
+04/23/2018 08:06:32 PM-INFO-Authentication (password) successful!
+04/23/2018 08:06:32 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 08:07:56 PM-INFO-Connected (version 2.0, client OpenSSH_7.4)
+04/23/2018 08:07:56 PM-INFO-Authentication (password) successful!
+04/23/2018 08:08:01 PM-INFO-Connected (version 2.0, client OpenSSH_7.4)
+04/23/2018 08:08:01 PM-INFO-Authentication (password) successful!
+04/23/2018 08:08:14 PM-INFO-Connected (version 2.0, client OpenSSH_7.4)
+04/23/2018 08:08:14 PM-INFO-Authentication (password) successful!
+04/23/2018 08:08:53 PM-INFO-Connected (version 2.0, client OpenSSH_7.4)
+04/23/2018 08:08:53 PM-INFO-Authentication (password) successful!
+04/23/2018 08:08:53 PM-INFO-[chan 0] Opened sftp connection (server version 3)
+04/23/2018 08:08:53 PM-ERROR-host [192.168.165.41] error£º[Errno 2] No such file
+04/23/2018 08:09:24 PM-INFO-Connected (version 2.0, client OpenSSH_7.4)
+04/23/2018 08:09:24 PM-INFO-Authentication (password) successful!
+04/23/2018 08:09:41 PM-INFO-Connected (version 2.0, client OpenSSH_7.4)
+04/23/2018 08:09:41 PM-INFO-Authentication (password) successful!
+04/23/2018 08:09:49 PM-INFO-
+|----- Welcome To Fabric Host management interface -----
+    1: create new host
+    2: connect host
+    3: command host
+    4: exit program
+    
+04/23/2018 08:09:53 PM-INFO-exit program success....
